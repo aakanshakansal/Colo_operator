@@ -83,7 +83,7 @@ export default function App() {
 
         {/* Grid Floor */}
         <gridHelper
-          args={[200, 20, "#00ffff", "#ffffff"]}
+          args={[200, 10, "#00ffff", "#ffffff"]}
           position={[0, 0, 0]}
         />
         {/* args = [size, divisions, colorCenterLine, colorGrid] */}
