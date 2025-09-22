@@ -193,9 +193,9 @@ export default function SystemMetricsCard({
       <mesh>
         <planeGeometry args={[width, height]} />
         <meshBasicMaterial
-          color="black"
+          color="#00406B"
           transparent
-          opacity={0.4}
+          opacity={0.8}
           side={THREE.DoubleSide}
         />
       </mesh>

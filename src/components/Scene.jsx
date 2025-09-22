@@ -219,9 +219,9 @@ function InfoCard({
       <mesh>
         <planeGeometry args={[width, height]} />
         <meshBasicMaterial
-          color="#1ae8ff"
+          color="#00406B"
           transparent
-          opacity={0.2}
+          opacity={0.6}
           side={THREE.DoubleSide}
         />
       </mesh>
